@@ -1,3 +1,5 @@
+# DEPRECATED!  [USE THE INTEGRATION REPLACEMENT](https://github.com/Petro31/ha-integration-multizone-controller)
+
 # Home Assistant Multizone Media Player Controller
 
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg?style=for-the-badge)](https://github.com/custom-components/hacs)
